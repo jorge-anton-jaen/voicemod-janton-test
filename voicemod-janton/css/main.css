@@ -1,0 +1,19 @@
+form{
+	padding: 5px;
+	display: table;
+}
+form div.form-item{
+	padding: 5px;
+	display: grid;
+}
+
+.menu-container a{
+	margin: 0 3px 0 3px; 
+}
+
+.user-list-container table{
+	table-layout: auto;
+  	width: 100%;  
+}
+
+
